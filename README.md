@@ -21,7 +21,7 @@ It provides a foundation for maintaining employee records and can be extended wi
 employee-management-system/
 ├── src/                    # Application source code
 ├── .idea/                  # IntelliJ IDEA settings
-├── out/                    # Compiled output, if generated
+├── out/                    # Compiled output
 ├── employee management system.iml
 └── README.md               # Project documentation
 ```
